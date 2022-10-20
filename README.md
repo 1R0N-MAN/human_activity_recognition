@@ -9,4 +9,4 @@ The following algorithms were implemented for this project:
 - Linear SVC
 - Sequential Neural Network
 
-The LinearSVC Model had the best performance with an accuracy of 96.47%
+The LinearSVC Model had the best performance with an accuracy of 96.47%.
